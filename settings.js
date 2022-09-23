@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
-//
-//   Credit : AlipBot
+/
+// Kredit : upinbot
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -17,9 +17,9 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = '乂𝘼𝙡𝙞𝙥乂'
-
-//_______________________ ┏  Apikey  ┓ _______________________\\
+  pembuat  =  ' 'KenZ xd
+kami
+//____________ Apikey _________________________\\
 
 // NOTE!!!!
 // KALAU APIKEY HABIS BUAT SENDIRI
