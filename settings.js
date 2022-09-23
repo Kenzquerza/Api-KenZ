@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-  pembuat  =  ' 'KenZ xd
+     pembuat =    'KenZ xd'  
 kami
 //____________ Apikey _________________________\\
 
